@@ -27,13 +27,9 @@ At the end of the compression step, the final state variables represent the comp
 
 2. Navigate to the project directory.
 
-3. Install the required dependencies:
-
-    pip install -r requirements.txt
-
-4. Run the program:
+3. Run the program:
 
     python main.py
 
-5. Provide the text you would like to hash as a command line prompt and observe the entire hashing process.
+4. Provide the text you would like to hash as a command line prompt and observe the entire hashing process.
 
